@@ -1,0 +1,7 @@
+{
+    "todos": [
+        { "id": 1, "title": "Do final project", "done":"false"},
+        { "id": 2, "title": "Get toothpaste", "done":"true"},
+        { "id": 3, "title": "End world hunger", "done":"false"}
+    ]
+}
